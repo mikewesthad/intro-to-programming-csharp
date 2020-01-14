@@ -2,7 +2,7 @@
 
 ## Overview
 
-We'll be creating a trivia application that allows a player to guess a correct answer from several possible options. This builds off of our [week 3 code](https://canvas.colum.edu/courses/12926/pages/3-dot-1-slides-and-code?module_item_id=429126). To start, we'll be using this UML (based on what we created on class).
+We'll be creating a trivia application that allows a player to guess a correct answer from several possible options. This builds off of our week 3 code (see links in Project Setup). To start, we'll be using this UML (based on what we created on class).
 
 ![Trivia app UML diagram](./Images/UML.png)
 
@@ -25,7 +25,7 @@ This assignment was developed for you to practice basic C# elements:
 
 ### Project Setup
 
-Grab the starter files from [here](https://github.com/mikewesthad/intro-to-programming-csharp/blob/master/Tutorials/Week%2004%20-%20Trivia%20App/StarterFiles.zip), or browse them online [here](./StarterFiles/) This is essentially what we ended week 3 of class having written. Review the project structure:
+Grab the starter files from [here](https://github.com/mikewesthad/intro-to-programming-csharp/raw/master/Tutorials/Week%2004%20-%20Trivia%20App/StarterFiles.zip), or browse them online [here](./StarterFiles/). This is essentially what we ended week 3 of class having written. Review the project structure:
 
 - The `Main` method in `Program` creates a `Game` and calls `Play`.
 - The `Player` and `TriviaItem` classes just have a constructor.
