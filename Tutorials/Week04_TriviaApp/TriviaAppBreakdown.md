@@ -25,7 +25,7 @@ This assignment was developed for you to practice basic C# elements:
 
 ### Project Setup
 
-Grab the starter files from [here](https://github.com/mikewesthad/intro-to-programming-csharp/raw/master/Tutorials/Week%2004%20-%20Trivia%20App/StarterFiles.zip), or browse them online [here](./StarterFiles/). This is essentially what we ended week 3 of class having written. Review the project structure:
+Grab the starter files from [here](https://github.com/mikewesthad/intro-to-programming-csharp/raw/master/Tutorials/Week04_TriviaApp/StarterFiles.zip), or browse them online [here](./StarterFiles/). This is essentially what we ended week 3 of class having written. Review the project structure:
 
 - The `Main` method in `Program` creates a `Game` and calls `Play`.
 - The `Player` and `TriviaItem` classes just have a constructor.
