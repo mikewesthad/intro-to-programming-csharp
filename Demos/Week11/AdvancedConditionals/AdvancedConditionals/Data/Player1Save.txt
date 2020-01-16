@@ -1,0 +1,7 @@
+﻿Name: Totoro
+HasBeatenGame: False
+Score: 2
+HasShield: False
+Defense: 5
+Attack: 5
+IsPacifist: False

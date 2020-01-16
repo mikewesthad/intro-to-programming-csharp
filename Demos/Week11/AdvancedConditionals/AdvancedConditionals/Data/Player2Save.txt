@@ -1,0 +1,7 @@
+﻿Name: Ada
+HasBeatenGame: True
+Score: 5
+HasShield: True
+Defense: 1
+Attack: 1
+IsPacifist: True
