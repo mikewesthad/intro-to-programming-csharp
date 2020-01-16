@@ -1,0 +1,18 @@
+﻿<Window x:Class="TipCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TipCalculator"
+        mc:Ignorable="d"
+        Title="Tip Calculator" Height="450" Width="800" Background="#FFEDEDED" FontFamily="Century Gothic">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="279,36,0,0" TextWrapping="Wrap" Text="Tip Calculator" VerticalAlignment="Top" FontSize="36" FontFamily="Century Gothic" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="260,111,0,0" TextWrapping="Wrap" Text="Total" VerticalAlignment="Top" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="296,170,0,0" TextWrapping="Wrap" Text="Tip" VerticalAlignment="Top" FontSize="36"/>
+        <TextBox HorizontalAlignment="Left" Height="44" Margin="375,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" FontSize="36"/>
+        <TextBox HorizontalAlignment="Left" Height="44" Margin="375,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" FontSize="36"/>
+        <Button Click="Button_Click" Content="Calculate" HorizontalAlignment="Left" Margin="315,245,0,0" VerticalAlignment="Top" Width="170" FontSize="30" Height="48" Background="#FF0080F9" Foreground="White"/>
+        <TextBlock Name="Results" HorizontalAlignment="Left" Margin="247,321,0,0" TextWrapping="Wrap" Text="Result will go here" VerticalAlignment="Top" FontSize="36" Foreground="#FF00B142" TextAlignment="Center"/>
+    </Grid>
+</Window>
