@@ -10,3 +10,4 @@ Uncomment Selection | Ctrl+K, Ctrl+U |
 Bring up Intellisense Suggestions | Ctrl+Space |
 Format Document | Ctrl+K, Ctrl+D |
 Format Selection | Ctrl+K, Ctrl+F |
+Bring up Documentation for Selection | F1 |
