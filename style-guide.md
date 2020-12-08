@@ -136,6 +136,8 @@ class VirtualPet
 }
 ```
 
+Tip: you can easily rename a field/method/class/etc. in Visual Studio. See [this guide](https://docs.microsoft.com/en-us/visualstudio/ide/reference/rename?view=vs-2019).
+
 ## Brace Style
 
 All braces get their own line as it is a C# convention:
